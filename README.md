@@ -1,5 +1,5 @@
 # FB-Scrape-User-Group-Images
-Small selenium script to scrape images posted by a user in a FaceBook group.
+Small selenium script to scrape images posted by a single user in a FaceBook group.
 
 # Info
 This was created for a one-time use so it lacks features and polishing. 
