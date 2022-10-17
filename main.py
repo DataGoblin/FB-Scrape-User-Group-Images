@@ -24,6 +24,7 @@ class FacebookGS():
         time.sleep(3)
 
         self.images = []
+        # set your image download limit
         image_limit = 560
         while image_limit > len(self.images):
             self.driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
